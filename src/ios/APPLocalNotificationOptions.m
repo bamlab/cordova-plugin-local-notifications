@@ -22,6 +22,7 @@
  */
 
 #import "APPLocalNotificationOptions.h"
+#import <UIKit/UIKit.h>
 
 // Default sound ressource path
 NSString* const DEFAULT_SOUND = @"res://platform_default";

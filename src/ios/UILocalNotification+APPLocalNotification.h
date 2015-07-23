@@ -22,6 +22,7 @@
  */
 
 #import "APPLocalNotificationOptions.h"
+#import <UIKit/UIKit.h>
 
 typedef NS_ENUM(NSUInteger, APPLocalNotificationType) {
     NotifcationTypeAll = 0,

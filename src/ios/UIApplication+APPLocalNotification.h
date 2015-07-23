@@ -22,6 +22,7 @@
  */
 
 #import "UILocalNotification+APPLocalNotification.h"
+#import <UIKit/UIKit.h>
 
 @interface UIApplication (APPLocalNotification)
 
